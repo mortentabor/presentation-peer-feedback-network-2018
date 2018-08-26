@@ -438,7 +438,7 @@ html {
 
 .reveal .slides section.lectures .socrativegfx {
   grid-area: gfx1;
-  background-image: url("../../lib/media/socrative.png");
+  background-image: url("../../lib/media/socrative.PNG");
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat; }
